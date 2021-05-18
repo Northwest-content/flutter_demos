@@ -39,4 +39,17 @@
   
 ### Android <img src="https://user-images.githubusercontent.com/24327781/118701393-48acc300-b7d9-11eb-83b4-102552da9127.png" width="35"/>
 
+  APK (Soon..)
+
 ### Windows / MacOS
+  1 - Open chrome  </br>
+  2 - </br> <img src="https://user-images.githubusercontent.com/24327781/118702138-2798a200-b7da-11eb-8572-b5d2cc77c5ad.png"/>
+  3 - 5 - Open the APP ^_^
+  
+## License
+
+    Copyright 2021 - Coded
+
+    Licensed under .......
+
+
