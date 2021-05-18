@@ -1,7 +1,7 @@
 # Flutter Demos
 
 
-## WEB
+### WEB <img src="https://user-images.githubusercontent.com/24327781/118701631-8e698b80-b7d9-11eb-914f-81b1b11a8693.png" width="15"/>
 
 1 - Hello World APP
 [Try it](https://flutter-examples-coded.web.app/hello-world-app/#/)
@@ -24,7 +24,9 @@
 
 ## <img src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" width="100" /> - ( Progressive Web Apps )  
 
-### iOS
+### iOS <img src="https://user-images.githubusercontent.com/24327781/118701218-156a3400-b7d9-11eb-8fd0-4f0cd20fc6c8.png" width="30"/>
+
+
   1 - Open the link in Safari Browser
   
   2 - <img src="https://user-images.githubusercontent.com/24327781/118699380-139f7100-b7d7-11eb-814c-1b76fefbb4d4.PNG" width="150" />
@@ -34,5 +36,7 @@
   4 - <img src="https://user-images.githubusercontent.com/24327781/118699485-35005d00-b7d7-11eb-9f7c-89a015b41f33.PNG" width="150" />
   
   5 - Open the APP ^_^
+  
+### Android <img src="https://user-images.githubusercontent.com/24327781/118701393-48acc300-b7d9-11eb-83b4-102552da9127.png" width="35"/>
 
 ### Windows / MacOS
