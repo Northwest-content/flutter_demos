@@ -27,7 +27,7 @@
 ### iOS <img src="https://user-images.githubusercontent.com/24327781/118701218-156a3400-b7d9-11eb-8fd0-4f0cd20fc6c8.png" width="30"/>
 
 
-  1 - Open the link in Safari Browser
+  1 - Open the link in Safari browser
   
   2 - <img src="https://user-images.githubusercontent.com/24327781/118699380-139f7100-b7d7-11eb-814c-1b76fefbb4d4.PNG" width="150" />
   
@@ -42,7 +42,7 @@
   APK (soon..)
 
 ### Windows / MacOS - <img src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" width="50" />
-  1 - Open chrome  </br>
+  1 - Open Chrome browser  </br>
   2 - </br> <img src="https://user-images.githubusercontent.com/24327781/118702138-2798a200-b7da-11eb-8572-b5d2cc77c5ad.png"/> </br>
   3 - Open the APP ^_^
   
