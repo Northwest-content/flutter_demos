@@ -22,7 +22,7 @@
 [Try it](https://flutter-examples-coded.web.app/notes-app/#/)
 
 
-## <img src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" width="100" /> - ( Progressive Web Apps )  
+## <img src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" width="75" /> - ( Progressive Web Apps )  
 
 ### iOS <img src="https://user-images.githubusercontent.com/24327781/118701218-156a3400-b7d9-11eb-8fd0-4f0cd20fc6c8.png" width="30"/>
 
