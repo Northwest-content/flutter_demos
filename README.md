@@ -16,7 +16,7 @@
 [Try it](https://flutter-examples-coded.web.app/dice-game-app/#/)
 
 5 - Weather APP
-[Try it](https://flutter-examples-coded.web.app/hello-world-app/#/)
+[Try it](https://flutter-examples-coded.web.app/weather-app/#/)
 
 6 - Notes APP
 [Try it](https://flutter-examples-coded.web.app/notes-app/#/)
