@@ -39,7 +39,7 @@
   
 ### Android <img src="https://user-images.githubusercontent.com/24327781/118701393-48acc300-b7d9-11eb-83b4-102552da9127.png" width="35"/>
 
-  APK (Soon..)
+  APK (soon..)
 
 ### Windows / MacOS
   1 - Open chrome  </br>
