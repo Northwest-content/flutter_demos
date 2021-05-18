@@ -12,7 +12,7 @@
 3 - Flutter Calculator UI APP
 [Try it](https://flutter-examples-coded.web.app/calculator-ui-app/#/)
 
-4 - Dice Game
+4 - Dice Game APP
 [Try it](https://flutter-examples-coded.web.app/dice-game-app/#/)
 
 5 - Weather APP
