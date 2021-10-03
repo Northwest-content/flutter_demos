@@ -37,9 +37,6 @@
   
   5 - Open the APP ^_^
   
-### Android (Native) <img src="https://user-images.githubusercontent.com/24327781/118701393-48acc300-b7d9-11eb-83b4-102552da9127.png" width="35"/>
-
-  APK (soon..)
 
 ### Windows / MacOS - <img src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" width="50" />
   1 - Open Chrome browser  </br>
